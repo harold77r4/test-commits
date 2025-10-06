@@ -3,6 +3,7 @@ r
 u
 y
 j
+lk
 # test-commits
 Line 1
 add: line 1
